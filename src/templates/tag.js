@@ -50,53 +50,53 @@ const TagTemplate = ({ pageContext, data, location }) => {
   const { tag } = pageContext;
   const { edges } = data.allMarkdownRemark;
 
-  // return (
-  //   <Layout location={location}>
-  //     <StyledTagsContainer>
-  //       <span className="breadcrumb">
-  //         <span className="arrow">&larr;</span>
-  //         <Link to="/pensieve">All memories</Link>
-  //       </span>
+  return (
+    <Layout location={location}>
+      <StyledTagsContainer>
+        <span className="breadcrumb">
+          <span className="arrow">&larr;</span>
+          <Link to="/pensieve">All memories</Link>
+        </span>
 
-  //       <h1>
-  //         <span>#{tag}</span>
-  //         <span>
-  //           <Link to="/pensieve/tags">View all tags</Link>
-  //         </span>
-  //       </h1>
+        <h1>
+          <span>#{tag}</span>
+          <span>
+            <Link to="/pensieve/tags">View all tags</Link>
+          </span>
+        </h1>
 
-  //       <ul className="fancy-list">
-  //         {edges.map(({ node }) => {
-  //           const { title, slug, date, tags } = node.frontmatter;
-  //           return (
-  //             <li key={slug}>
-  //               <h2>
-  //                 <Link to={slug}>{title}</Link>
-  //               </h2>
-  //               <p className="subtitle">
-  //                 <time>
-  //                   {new Date(date).toLocaleDateString('en-US', {
-  //                     year: 'numeric',
-  //                     month: 'long',
-  //                     day: 'numeric',
-  //                   })}
-  //                 </time>
-  //                 <span>&nbsp;&mdash;&nbsp;</span>
-  //                 {tags &&
-  //                   tags.length > 0 &&
-  //                   tags.map((tag, i) => (
-  //                     <Link key={i} to={`/pensieve/tags/${kebabCase(tag)}/`} className="tag">
-  //                       #{tag}
-  //                     </Link>
-  //                   ))}
-  //               </p>
-  //             </li>
-  //           );
-  //         })}
-  //       </ul>
-  //     </StyledTagsContainer>
-  //   </Layout>
-  // );
+        <ul className="fancy-list">
+          {edges.map(({ node }) => {
+            const { title, slug, date, tags } = node.frontmatter;
+            return (
+              <li key={slug}>
+                <h2>
+                  <Link to={slug}>{title}</Link>
+                </h2>
+                <p className="subtitle">
+                  <time>
+                    {new Date(date).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </time>
+                  <span>&nbsp;&mdash;&nbsp;</span>
+                  {tags &&
+                    tags.length > 0 &&
+                    tags.map((tag, i) => (
+                      <Link key={i} to={`/pensieve/tags/${kebabCase(tag)}/`} className="tag">
+                        #{tag}
+                      </Link>
+                    ))}
+                </p>
+              </li>
+            );
+          })}
+        </ul>
+      </StyledTagsContainer>
+    </Layout>
+  );
 };
 
 export default TagTemplate;

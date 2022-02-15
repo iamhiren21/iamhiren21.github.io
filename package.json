@@ -82,6 +82,6 @@
   "bugs": {
     "url": "https://github.com/hiren0521/master/issues"
   },
-  "homepage": "https://github.com/hiren0521/hiren0521.github.io#readme",
+  "homepage": "https://github.com/hiren0521/hiren0521.github.io/blob/master/content/about/index.md",
   "main": "gatsby-browser.js"
 }

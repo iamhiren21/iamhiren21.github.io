@@ -12,9 +12,9 @@
   <a href="https://github.com/hiren0521/hiren0521.github.io" target="_blank">Version 1</a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.pn" />
-</div>
+</div> -->
 
 ### TL;DR
 

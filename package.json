@@ -5,7 +5,7 @@
   "author": "Hiren Savaliya <hirensavaliya234@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chandrikadeb7/chandrikadeb7.github.io.git"
+    "url": "git+https://github.com/hiren0521/hiren0521.github.io.git"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +18,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public "
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {
@@ -82,6 +82,6 @@
   "bugs": {
     "url": "https://github.com/hiren0521/master/issues"
   },
-  "homepage": "https://github.com/chandrikadeb7/chandrikadeb7.github.io#readme",
+  "homepage": "https://github.com/hiren0521/hiren0521.github.io#readme",
   "main": "gatsby-browser.js"
 }

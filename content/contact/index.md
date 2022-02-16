@@ -3,6 +3,8 @@ title: 'Get In Touch'
 buttonText: 'Say Hello!'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates. 
+My inbox is always open. 
 
-Don't be a stranger, Just say hello!
+Whether you have a question or just want to say Hello,I'll try my best to get back to you! Feel free to mail me about any relevant job updates. 
+
+Don't be a stranger, Just say Hello!

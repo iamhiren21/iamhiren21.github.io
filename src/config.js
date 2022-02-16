@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Hiren Savaliya',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Hiren Savaliya is a Software Quality Assurance Analyst at Invints Infotech LLP.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Hiren Savaliya, Hiren, Savaliya, hiren0521, software tester, ',
+  siteUrl: 'https://hiren0521.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',

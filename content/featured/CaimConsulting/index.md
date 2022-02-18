@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-# github: 'https://github.com/caimconsulting/caim-consulting-website'
-# external: 'https://caimconsulting.in/'
+title: 'Demo1'
+cover: 'demo1.jpg'
+# github: ''
+# external: ''
 tech:
   - HTML
   - CSS

@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
-cover: 'face-mask.png'
-# github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-# external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+title: 'Demo3'
+cover: 'demo1.jpg'
+# github: ''
+# external: ''
 tech:
   - OpenCV
   - TensorFlow

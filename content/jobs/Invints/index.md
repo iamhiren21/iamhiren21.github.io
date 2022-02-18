@@ -1,6 +1,6 @@
 ---
 date: '2021-03-19'
-title: 'Software Quality Assurance Analyst'
+title: 'Software QA Analyst'
 company: 'Invints Infotech LLP'
 location: 'Surat, India'
 range: 'April 2021 - Present'

@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/hiren0521/hiren0521.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/hiren0521/master/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 2
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/hiren0521/hiren0521.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/hiren0521/master/blob/main/src/images/demo.png" />
 </div>
 
 ### TL;DR
@@ -60,7 +60,7 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
    npm run serve
    ```
 
-<!-- ## 🎨 Color Reference
+## 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
@@ -71,4 +71,4 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 | Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` | -->
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |

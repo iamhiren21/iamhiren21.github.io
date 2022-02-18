@@ -1,16 +1,12 @@
 ---
 date: '2'
-title: 'Demo2'
-cover: 'demo1.jpg'
-# github: ''
+title: 'Nykaa'
+cover: 'nykaa.jpg'
 # external: ''
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
+  - Insecure Data Storage Vulnerability
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Found [Data Storage Vulnerability]() with Recon on user [allowBackup Flag]() and found [“allow backup method=true”]() response.

@@ -1,16 +1,14 @@
 ---
 date: '1'
-title: 'Demo1'
-cover: 'demo1.jpg'
-# github: ''
+title: 'University of Cambridge'
+cover: 'cambridge-logo123.png'
 # external: ''
 tech:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
+  - REFLECTED XSS
+  - Domain Recon
+  - Burp Suite
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Found [Reflected XSS]( ) when i injected [JavaScript]() into a request, and reflected and executed directly in the response.

@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me1.jpg'
 skills:
   - Vulnerability Assessment
   - Penetration Testing

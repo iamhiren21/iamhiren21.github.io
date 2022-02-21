@@ -4,7 +4,7 @@ title: 'Nykaa'
 cover: 'nykaa.jpg'
 # external: ''
 tech:
-  - Insecure Data Storage Vulnerability
+  - Insecured Data Storage Vulnerability
 
 showInProjects: true
 ---

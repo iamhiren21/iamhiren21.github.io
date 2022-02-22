@@ -39,8 +39,6 @@ const Heading = styled.h3`
     ${media.tablet`width: 100%;`};
     ${media.thone`margin-left: 10px;`};
   }
-
-  ${media.phone1`font-size:47px;`};
 `;
 
 export default Heading;

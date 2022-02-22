@@ -1,7 +1,7 @@
 ---
 date: '2019-07-21'
 title: 'Project Intern'
-company: 'Leons'
+company: 'Leons Integrations Pvt Ltd'
 location: 'Vadodara, Indias'
 range: 'July 2019 - March 2020'
 url: 'https://www.leonsintegrations.com/'

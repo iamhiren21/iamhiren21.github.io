@@ -1,7 +1,7 @@
 ---
 date: '2021-03-19'
 title: 'Software QA Analyst'
-company: 'Invints Infotech LLP'
+company: 'Invints'
 location: 'Surat, India'
 range: 'April 2021 - Present'
 url: 'https://www.invints.com/'

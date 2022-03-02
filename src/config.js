@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Hiren Savaliya is a Software Quality Assurance Analyst at Invints Infotech LLP.',
   siteKeywords:
-    'Hiren Savaliya, Hiren, Savaliya, hiren0521, software tester',
+    'Hiren Savaliya, Hiren, Savaliya, QA, hiren0521, software tester, cyber security, cyber, security',
   siteUrl: 'https://hiren0521.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',

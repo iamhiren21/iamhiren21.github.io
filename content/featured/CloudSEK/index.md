@@ -2,8 +2,7 @@
 date: '3'
 title: 'CloudSEK'
 cover: 'CloudSEK.png'
-# github: ''
-# external: ''
+# external: 'link'
 tech:
   - CTF Challange
   - Cyber Threat

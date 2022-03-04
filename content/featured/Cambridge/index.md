@@ -2,7 +2,7 @@
 date: '1'
 title: 'University of Cambridge'
 cover: 'cambridge-logo123.png'
-# external: ''
+# external: 'link'
 tech:
   - REFLECTED XSS
   - Domain Recon

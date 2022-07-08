@@ -7,10 +7,10 @@
 <p align="center">
   The second iteration of <a href="https://hiren0521.github.io/" target="_blank">hiren0521.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://github.com/hiren0521" target="_blank">Version 1</a>
-</p>
+</p> -->
 
 <div align="center">
   <img alt="Demo" src="https://github.com/hiren0521/hiren0521.github.io/blob/code/src/images/Screenshot_5.png" />

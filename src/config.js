@@ -3,15 +3,15 @@ module.exports = {
   siteDescription:
     'Hiren Savaliya is a Software Quality Assurance Analyst at Invints Infotech LLP.',
   siteKeywords:
-    'Hiren Savaliya, Hiren, Savaliya, QA, hiren0521, software tester, cyber security, cyber, security',
-  siteUrl: 'https://hiren0521.github.io/',
+    'Hiren Savaliya, Hiren, Savaliya, QA, iamhiren21, software tester, cyber security, cyber, security',
+  siteUrl: 'https://iamhiren21.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Hiren Savaliya',
   location: 'Surat, India',
   email: 'hirensavaliya234@gmail.com',
-  github: 'https://github.com/hiren0521',
+  github: 'https://github.com/iamhiren21',
   twitterHandle: '@im_hiren_',
   socialMedia: [
     {
@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'GitHub',
-      url: 'https://github.com/hiren0521',
+      url: 'https://github.com/iamhiren21',
     },
     {
       name: 'Instagram',

@@ -3,7 +3,7 @@ date: '2022-05-02'
 title: 'Cyber Security Engineer'
 company: 'VTF'
 location: 'Internship'
-range: 'May 2022 - Present'
+range: 'May 2022 - July 2022'
 url: 'https://virtuallytestingfoundation.org/'
 ---
 

@@ -7,6 +7,5 @@ range: 'December 2019 - Present'
 url: 'https://bugcrowd.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Bug bounty hunters know the basics of cybersecurity. We take care of finding flaws and vulnerabilities, and we are experts in the field. We take responsibility for preventing the abuse of bug bounty programs and sites. Bug bounty hunters prevent criminal hackers from detecting bugs in the early stages.
+- I found many bugs and vulnerabilities on many websites and got the rewards and certification of the appreciation.

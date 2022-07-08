@@ -18,4 +18,4 @@ Currently, I am focused as a QA Analyst at [Invints Infotech LLP](https://invint
 I worked with web applications, web penetration tests, UI/UX tests. It has tested over 50+ websites from a variety of industries, including 
 e-commerce, banking, management, gaming, commerce, government, and financial services. I also write blogs on [Medium](https://medium.com/@imhiren).
 
-Here is a list of the skils that I'm familiar with!
+Here is a list of the skills that I'm familiar with!

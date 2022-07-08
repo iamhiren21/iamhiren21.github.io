@@ -3,7 +3,7 @@ date: '2022-05-05'
 title: 'CTF Player'
 company: 'Try Hack Me'
 location: 'Freelance'
-range: 'May 2022 - Present'
+range: 'May 2022 – Present'
 url: 'https://tryhackme.com/'
 ---
 

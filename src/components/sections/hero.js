@@ -29,6 +29,7 @@ const StyledTitle = styled.h2`
   font-size: 80px;
   line-height: 1.1;
   margin: 0;
+  color: #8892b0;
   ${media.desktop`font-size: 70px;`};
   ${media.tablet`font-size: 60px;`};
   ${media.phablet`font-size: 50px;`};
@@ -37,7 +38,7 @@ const StyledTitle = styled.h2`
 const StyledSubtitle = styled.h3`
   font-size: 80px;
   line-height: 1.1;
-  color: ${colors.slate};
+  color: #ccd6f6;
   ${media.desktop`font-size: 70px;`};
   ${media.tablet`font-size: 60px;`};
   ${media.phablet`font-size: 50px;`};

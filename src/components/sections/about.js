@@ -63,7 +63,7 @@ const StyledPic = styled.div`
 const StyledAvatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1);
+  filter: grayscale(100%) contrast(1.5);
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;
@@ -78,8 +78,8 @@ const StyledAvatarLink = styled.a`
   &:focus {
     background: transparent;
     &:after {
-      top: 15px;
-      left: 15px;
+      top: 20px;
+      left: 20px;
     }
     ${StyledAvatar} {
       filter: none;

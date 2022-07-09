@@ -44,8 +44,8 @@ const NotFoundPage = ({ location }) => {
         {isMounted && (
           <CSSTransition timeout={500} classNames="fade">
             <StyledMainContainer className="fillHeight">
-              <StyledTitle>404</StyledTitle>
-              <StyledSubtitle>Page Not Found</StyledSubtitle>
+              <StyledTitle>0oops!</StyledTitle>
+              <StyledSubtitle>404 Looks Like a Ghost!</StyledSubtitle>
               <StyledHomeButton to="/">Go Home</StyledHomeButton>
             </StyledMainContainer>
           </CSSTransition>

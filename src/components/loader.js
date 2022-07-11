@@ -21,7 +21,7 @@ const StyledContainer = styled.div`
 `;
 const StyledLogo = styled.div`
   width: max-content;
-  max-width: 100px;
+  max-width: 200px;
   transition: ${theme.transition};
   opacity: ${props => (props.isMounted ? 1 : 0)};
   svg {
@@ -53,13 +53,13 @@ const Loader = ({ finishLoading }) => {
       })
       .add({
         targets: '#logo #B',
-        duration: 700,
+        duration: 500,
         easing: 'easeInOutQuart',
         opacity: 1,
       })
       .add({
         targets: '#logo',
-        delay: 500,
+        delay: 400,
         duration: 300,
         easing: 'easeInOutQuart',
         opacity: 0,

@@ -6,8 +6,7 @@ module.exports = {
     'Hiren Savaliya, Hiren, Savaliya, QA, iamhiren21, software tester, cyber security, cyber, security',
   siteUrl: 'https://iamhiren21.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'G-VBN5DCBBMW',
   name: 'Hiren Savaliya',
   location: 'Surat, India',
   email: 'hirensavaliya234@gmail.com',
@@ -42,7 +41,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Projects',
+      name: 'Featured ',
       url: '/#projects',
     },
     {
@@ -61,8 +60,8 @@ module.exports = {
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
-    distance: '20px',
-    duration: 500,
+    distance: '30px',
+    duration: 300,
     delay,
     rotate: { x: 0, y: 0, z: 0 },
     opacity: 0,

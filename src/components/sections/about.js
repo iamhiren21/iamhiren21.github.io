@@ -49,8 +49,8 @@ const Skill = styled.li`
 `;
 const StyledPic = styled.div`
   position: relative;
-  width: 40%;
-  max-width: 300px;
+  width: 50%;
+  max-width: 400px;
   margin-left: 60px;
   ${media.tablet`margin: 60px auto 0;`};
   ${media.phablet`width: 70%;`};
@@ -63,7 +63,7 @@ const StyledPic = styled.div`
 const StyledAvatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1.5);
+  filter: grayscale(100%) contrast(1.1);
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;

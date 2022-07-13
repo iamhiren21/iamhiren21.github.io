@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkv1=self.webpackChunkv1||[]).push([[678],{6558:function(e,n,s){s.r(n);s(7294),s(1597),s(7069);var t=s(9),a=s(1428);(0,t.default)(a.or).withConfig({displayName:"pages__StyledMainContainer",componentId:"sc-1ppsr5x-0"})(["counter-reset:section;"])}}]);
+//# sourceMappingURL=component---src-pages-index-js-ed05a4f5fe8d55a84c18.js.map

@@ -1,15 +1,15 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/hiren0521/hiren0521.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/iamhiren21/iamhiren21.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website
 </h1>
 <p align="center">
-  This website <a href="https://hiren0521.github.io/" target="_blank">hiren0521.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  This website <a href="https://iamhrien21.github.io/" target="_blank">iamhiren21.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/hiren0521/hiren0521.github.io/blob/code/src/images/Screenshot_5.png" />
+  <img alt="Demo" src="https://github.com/iamhiren21/iamhiren21.github.io/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR

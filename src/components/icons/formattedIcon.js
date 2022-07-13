@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {
   IconAppStore,
-  IconCodepen,
+  IconMedium,
   IconExternal,
   IconFolder,
   IconFork,
@@ -36,6 +36,8 @@ const FormattedIcon = ({ name }) => {
       return <IconLinkedin />;
     case 'Loader':
       return <IconLoader />;
+    case 'Medium':
+       return <IconMedium />;
     case 'Location':
       return <IconLocation />;
     case 'Logo':

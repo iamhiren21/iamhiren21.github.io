@@ -17,7 +17,7 @@ const StyledFlexContainer = styled.div`
 `;
 const StyledContent = styled.div`
   width: 60%;
-  max-width: 480px;
+  max-width: 570px;
   ${media.tablet`width: 100%;`};
   a {
     ${mixins.inlineLink};
@@ -50,7 +50,7 @@ const Skill = styled.li`
 const StyledPic = styled.div`
   position: relative;
   width: 50%;
-  max-width: 400px;
+  max-width: 380px;
   margin-left: 60px;
   ${media.tablet`margin: 60px auto 0;`};
   ${media.phablet`width: 70%;`};

@@ -26,6 +26,10 @@ module.exports = {
       url: 'https://github.com/iamhiren21',
     },
     {
+      name: 'Medium',
+      url: 'https://medium.com/@imhiren',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/im.hiren_',
     },

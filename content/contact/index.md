@@ -7,4 +7,4 @@ buttonText: 'Sayy Hello!'
 
 Whether you have a question my mail box is always open for a good cup of coffee. Feel free to mail me about any relevant job updates. 
 
-Don't Be a Stranger, [Just Sayy Hello!👋]( )
+Don't Be a Stranger, [Sayy Hello!👋]( )

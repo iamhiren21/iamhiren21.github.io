@@ -5,7 +5,6 @@ cover: 'CloudSEK.png'
 # external: 'link'
 tech:
   - CTF Challange
-  - Cyber Threat
   - CloudSEK Professional
 
 showInProjects: false

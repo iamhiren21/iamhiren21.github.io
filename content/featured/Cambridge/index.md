@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Found [Reflected XSS]( ) when i injected [JavaScript Payload]() into a request, and reflected and executed directly in the response.
+Found [Reflected XSS]( ) when I injected [JavaScript Payload]() into a request, and reflected and executed directly in the response.

@@ -3,7 +3,7 @@ date: '2019-12-21'
 title: 'Bug Bounty Hunter'
 company: 'Bugcrowd'
 location: 'Freelance'
-range: 'December 2019 - Present'
+range: 'December 2019 - February 2022'
 url: 'https://bugcrowd.com/'
 ---
 

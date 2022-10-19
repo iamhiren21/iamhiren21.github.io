@@ -114,7 +114,7 @@ const StyledHighlight = styled.span`
     margin-left: 50px;
   `};
   ${media.phablet`
-    margin-left: 25px;
+    margin-left: 45px;
   `};
 `;
 const StyledTabContent = styled.div`

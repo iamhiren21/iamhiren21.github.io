@@ -81,7 +81,7 @@ const StyledTechList = styled.ul`
     color: ${colors.green};
     margin-right: ${theme.margin};
     margin-bottom: 7px;
-    white-space: nowrap;
+    white-space: wrap;
     &:last-of-type {
       margin-right: 0;
     }

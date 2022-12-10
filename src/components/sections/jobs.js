@@ -35,8 +35,8 @@ const StyledTabList = styled.ul`
     margin-left: -50px;
   `};
   ${media.phablet`
-    width: calc(100% + 50px);
-    margin-left: -25px;
+    width: calc(100% + 0px);
+    margin-left: 0px;
   `};
 
   li {

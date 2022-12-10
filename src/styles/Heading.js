@@ -11,7 +11,7 @@ const Heading = styled.h3`
   width: 100%;
   white-space: nowrap;
   font-size: ${fontSizes.h3};
-  ${media.tablet`font-size: 24px;`};
+  ${media.tablet`font-size: 22px;`};
 
   &:before {
     counter-increment: section;

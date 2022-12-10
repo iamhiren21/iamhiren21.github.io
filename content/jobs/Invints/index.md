@@ -3,10 +3,12 @@ date: '2021-03-19'
 title: 'Software QA Analyst'
 company: 'Invints'
 location: 'Surat, India'
-range: 'April 2021 – Present'
+range: 'Jan 2021 – Present'
 url: 'https://www.invints.com/'
 ---
 
-- Creating a test plan to assess functionality, performance, reliability, stability, and compatibility with other systems.
-- Ensuring the product is culturally compatible with the Client's requirement.
-- Communicate with multidisciplinary teams of developers, designers and QA team members.
+- Actively Collaborating with developers and business stakeholders to [Clarify Requirements](), especially in terms of Testability, Consistency, and Completeness.
+- Converting the user stories agile methodology requirements documents and design documentation into test design products: [Test Scenarios, Test Cases, and Test Scripts]().
+- Involving in Daily Stand-up Meetings and weekly sprint meetings to discuss Workflow and Project Specifications.
+- Creating a [Test plan]() to assess Functionality, Performance, Integration, Reliability, Stability, Compatibility and Manual Testing with the browser or systems. Or implement scalable [QA Strategies]().
+- Ensuring the product is culturally compatible with the [Client's requirement]().
